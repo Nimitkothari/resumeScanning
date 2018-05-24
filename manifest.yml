@@ -1,0 +1,5 @@
+applications:
+  - name: resumescanning
+    buildpack: python_buildpack 
+    memory: 512M
+    stack: cflinuxfs2
